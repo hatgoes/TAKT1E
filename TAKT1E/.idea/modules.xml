@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TAKT Avond 2/TAKT Avond 2.iml" filepath="$PROJECT_DIR$/TAKT Avond 2/TAKT Avond 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAKT Avond 3/TAKT Avond 3.iml" filepath="$PROJECT_DIR$/TAKT Avond 3/TAKT Avond 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAKT Avond 4/TAKT Avond 4.iml" filepath="$PROJECT_DIR$/TAKT Avond 4/TAKT Avond 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAKT Eindopdracht/TAKT Eindopdracht.iml" filepath="$PROJECT_DIR$/TAKT Eindopdracht/TAKT Eindopdracht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAKT1E.iml" filepath="$PROJECT_DIR$/TAKT1E.iml" />
+    </modules>
+  </component>
+</project>
