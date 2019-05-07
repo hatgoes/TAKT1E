@@ -17,9 +17,10 @@ public class OpgaveStringManipulatie {
                 "19-09-1970;m;Konincks;Sven"
         };
 
+
         int aantalMannen;
         int aantalVrouwen;
-        int aantalRest;
+        int aantalOnbekend;
         int aantalMannenTotaal = 0;
         int aantalVrouwenTotaal = 0;
         int aantalRestTotaal = 0;
@@ -32,7 +33,7 @@ public class OpgaveStringManipulatie {
 
             aantalMannen = 0;
             aantalVrouwen = 0;
-            aantalRest = 0;
+            aantalOnbekend = 0;
 
             while (teller < maximum && eenGeboortejaar(personen, teller) == hulpjaar) {
                 if (Objects.equals(eenGeslacht(personen, teller).toLowerCase(), "m")) {
@@ -42,7 +43,7 @@ public class OpgaveStringManipulatie {
                     aantalVrouwen++;
                     aantalVrouwenTotaal++;
                 } else {
-                    aantalRest++;
+                    aantalOnbekend++;
                     aantalRestTotaal++;
                     System.out.println("Onbekend geslacht: " + eenGeslacht(personen, teller));
                 }
@@ -50,7 +51,7 @@ public class OpgaveStringManipulatie {
             }
             System.out.println("Het aantal mannen dit jaar: " + aantalMannen);
             System.out.println("Het aantal vrouwen dit jaar: " + aantalVrouwen);
-            System.out.println("Het aantal rest dit jaar: " + aantalRest);
+            System.out.println("Het aantal rest dit jaar: " + aantalOnbekend);
         }
         System.out.println();
         System.out.println("--- DE TOTALE SOM VAN ALLE MANNEN EN VROUWEN ---");

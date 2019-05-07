@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5feda07c-7604-4d73-b16c-a801f2317d1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oefeningen-avond4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TAKT Avond 5/TAKT Avond 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TAKT Avond 5/src/oefening_avond_5/InputOutputOpgave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Aantallen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Persoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/persoon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/testdata/persoon.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/OpgaveStringManipulatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/OpgaveStringManipulatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Rapporteren.java" beforeDir="false" afterPath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Rapporteren.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenEnRapporteren.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenMannenVrouwenMetKlasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oefeningen-avond4/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,53 +27,128 @@
     <session id="1986084530">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="29" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="29" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="827" />
-          <entry key="txt" value="30" />
+          <entry key="dummy" value="13" />
+          <entry key="java" value="1980" />
+          <entry key="txt" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="827" />
-          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="JAVA" value="1980" />
+          <entry key="PLAIN_TEXT" value="60" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/TAKT Avond 5/src/oefening_avond_5/InputOutputOpgave.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="45" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Persoon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Aantallen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Rapporteren.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+        <entry file="file://$PROJECT_DIR$/TAKT Avond 3/src/oefening_avond_3/OpgaveStringManipulatie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="570">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/Auto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/CruiseControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -88,6 +174,15 @@
         <option value="$PROJECT_DIR$/src/eindopdracht/TellenEnRapporteren.java" />
         <option value="$PROJECT_DIR$/src/eindopdracht/TellenMannenVrouwenMetKlasse.java" />
         <option value="$PROJECT_DIR$/TAKT Avond 3/src/oefening_avond_3/CommentaarOpStrings.java" />
+        <option value="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/OpgaveStringManipulatie.java" />
+        <option value="$PROJECT_DIR$/TAKT Avond 5/src/lababla.java" />
+        <option value="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenEnRapporteren.java" />
+        <option value="$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/CruiseControl.java" />
+        <option value="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenMannenVrouwenMetKlasse.java" />
+        <option value="$PROJECT_DIR$/TAKT Avond 5/src/oefening_avond_5/InputOutputOpgave.java" />
+        <option value="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Rapporteren.java" />
+        <option value="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Aantallen.java" />
+        <option value="$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Persoon.java" />
       </list>
     </option>
   </component>
@@ -128,12 +223,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
               <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+              <item name="TAKT Avond 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+              <item name="TAKT Avond 4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+              <item name="TAKT Avond 4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oefening_avond_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+              <item name="TAKT Avond 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TAKT1E" type="462c0819:PsiDirectoryNode" />
+              <item name="TAKT Avond 5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TAKT1E" type="b2602c69:ProjectViewProjectNode" />
@@ -157,8 +288,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +298,12 @@
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Cursussen\TAKT1E\oefenen\src" />
+      <recent name="C:\Cursussen\TAKT1E\TAKT Eindopdracht\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Cursussen\TAKT1E\TAKT Eindopdracht\src\eindopdracht" />
       <recent name="C:\Cursussen\TAKT1E\TAKT Avond 3\src\oefening_avond_3" />
       <recent name="C:\Cursussen\TAKT1E\src\oefening_avond_4" />
       <recent name="C:\Cursussen\TAKT1E\src\eindopdracht" />
@@ -188,6 +322,44 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Rapporteren">
+    <configuration name="InputOutputOpgave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oefening_avond_5.InputOutputOpgave" />
+      <module name="TAKT Avond 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oefening_avond_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rapporteren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eindopdracht.Rapporteren" />
+      <module name="TAKT Eindopdracht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eindopdracht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Rapporteren" />
+      <item itemvalue="Application.InputOutputOpgave" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Rapporteren" />
+        <item itemvalue="Application.InputOutputOpgave" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5feda07c-7604-4d73-b16c-a801f2317d1e" name="Default Changelist" comment="" />
@@ -203,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556279161993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create new branch">
+      <created>1556279817530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556279817530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -216,144 +395,102 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1164" extended-state="6" />
+    <frame x="-4" y="-4" width="2408" height="1456" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20315161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="SonarLint" weight="0.3297456" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3297456" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3297456" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3296875" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3297456" />
+      <window_info anchor="bottom" id="SonarLint" order="8" weight="0.3297456" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.30930233" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297456" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20315161" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3296875" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3296875" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3297456" />
+      <window_info anchor="bottom" id="SonarLint" order="8" weight="0.3297456" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.30930233" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297456" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init takt cursus oefeningen" />
-    <option name="LAST_COMMIT_MESSAGE" value="init takt cursus oefeningen" />
+    <MESSAGE value="create new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new branch" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/eindopdracht/Manipulatie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="25" column="60" lean-forward="true" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eindopdracht/CommentaarOpStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eindopdracht/StringManipulatieMinderEfficient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Rapporteren.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Avond 2/src/oefeningen_avond_2/GeslachtPerGeboortejaar.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/OpgaveStringManipulatie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenEnRapporteren.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="68" column="10" selection-start-line="68" selection-start-column="10" selection-end-line="78" selection-end-column="11" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1261#1262#0" expanded="true" />
-            <element signature="e#1330#1331#0" expanded="true" />
-            <element signature="e#1394#1395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenMannenVrouwenMetKlasse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen-avond3/src/Heitzenberg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/CruiseControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eindopdracht/Manipulatie.java" />
+    <entry file="file://$PROJECT_DIR$/src/eindopdracht/CommentaarOpStrings.java" />
+    <entry file="file://$PROJECT_DIR$/src/eindopdracht/StringManipulatieMinderEfficient.java" />
+    <entry file="file://$PROJECT_DIR$/oefeningen-avond3/src/Heitzenberg.java" />
     <entry file="file://$PROJECT_DIR$/TAKT Avond 3/src/oefening_avond_3/CommentaarOpStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="39" column="31" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/Auto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -367,6 +504,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Avond 2/src/oefeningen_avond_2/GeslachtPerGeboortejaar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/OpgaveStringManipulatie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JAVA/JDK/jdk1.8.0/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/testdata/persoon.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefenen/src/Opgave_3_25_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefenen/src/opgave03_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/in490har.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/CruiseControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Avond 5/src/oefening_avond_5/InputOutputOpgave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/TellenMannenVrouwenMetKlasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Persoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Aantallen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/persoon.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Eindopdracht/src/eindopdracht/Rapporteren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Avond 4/src/oefening_avond_4/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAKT Avond 3/src/oefening_avond_3/OpgaveStringManipulatie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
         </state>
       </provider>
     </entry>
