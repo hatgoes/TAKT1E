@@ -4,50 +4,71 @@ import java.io.*;
 
 public class Aantallen {
 
-    BufferedWriter writer = new BufferedWriter(new FileWriter("resultaat/overzichtpersonen.txt"));
+    private BufferedWriter writer;
 
     private int aantalMannen;
     private int aantalVrouwen;
     private int aantalOnbekend;
+    private int totaalAantalMannen;
+    private int totaalAantalVrouwen;
+    private int totaalAantalonbekend;
 
     public Aantallen() throws IOException {
+        this.aantalMannen = 0;
+        this.aantalVrouwen = 0;
+        this.aantalOnbekend = 0;
+        this.totaalAantalMannen = 0;
+        this.totaalAantalVrouwen = 0;
+        this.totaalAantalonbekend = 0;
+        this.writer = new BufferedWriter(new FileWriter("C:\\Cursussen\\TAKT1E\\TAKT Eindopdracht\\resultaat\\overzichtpersonen.txt"));
     }
 
-    public int getAantalMannen() {
-        return aantalMannen;
+    public void resetAantallen() {
+        aantalMannen = 0;
+        aantalVrouwen = 0;
+        aantalOnbekend = 0;
     }
 
-    public void setAantalMannen(int aantalMannen) {
-        this.aantalMannen = aantalMannen;
-    }
-
-    public int getAantalVrouwen() {
-        return aantalVrouwen;
-    }
-
-    public void setAantalVrouwen(int aantalVrouwen) {
-        this.aantalVrouwen = aantalVrouwen;
-    }
-
-    public int getAantalOnbekend() {
-        return aantalOnbekend;
-    }
-
-    public void setAantalOnbekend(int aantalOnbekend) {
-        this.aantalOnbekend = aantalOnbekend;
-    }
-
-    public void optellenAantallen(int verhoging) throws IOException {
-        aantalMannen = aantalMannen + verhoging;
-
-        writer.write("Het aantal mannen dit jaar: " + aantalMannen);
+    public void schrijfGeboortejaar(int jaar) throws IOException {
+        writer.write("Het geboortejaar is: " + jaar);
         writer.newLine();
-        writer.write("Het aantal vrouwen dit jaar: " + aantalVrouwen);
-        writer.newLine();
-        writer.write("Het aantal onbekend dit jaar: " + aantalOnbekend);
-        writer.newLine();
-        System.out.println("Het aantal mannen van dit jaar is: " + (aantalMannen));
+    }
 
-//        writer.close();
+    public void optellenAantallen(String geslacht) {
+        if (geslacht.toLowerCase().equals("m")) {
+            aantalMannen++;
+            totaalAantalMannen++;
+        } else if (geslacht.toLowerCase().equals("v")) {
+            aantalVrouwen++;
+            totaalAantalVrouwen++;
+        } else {
+            aantalOnbekend++;
+            totaalAantalonbekend++;
+        }
+    }
+
+    public void tellingenSchrijven() throws IOException {
+        writer.write("Het aantal mannen dit jaar: " + this.aantalMannen);
+        writer.newLine();
+        writer.write("Het aantal vrouwen dit jaar: " + this.aantalVrouwen);
+        writer.newLine();
+        writer.write("Het aantal onbekend dit jaar: " + this.aantalOnbekend);
+        writer.newLine();
+        writer.newLine();
+    }
+    public void totaalTellingenSchrijven() throws IOException {
+        writer.write("--- DE TOTALE SOM VAN ALLE MANNEN EN VROUWEN ---");
+        writer.newLine();
+        writer.write("Het totaal aantal mannen: " + totaalAantalMannen);
+        writer.newLine();
+        writer.write("Het totaal aantal vrouwen: " + totaalAantalVrouwen);
+        writer.newLine();
+        writer.write("Het totaal aantal rest: " + totaalAantalonbekend);
+        writer.newLine();
+
+    }
+
+    public void sluitWriter() throws IOException {
+        writer.close();
     }
 }
